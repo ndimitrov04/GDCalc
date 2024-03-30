@@ -1,0 +1,5 @@
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\x64\Debug\GCalc.vcxproj.AssemblyReference.cache
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\x64\Debug\GCalc.vcxproj.SuggestedBindingRedirects.cache
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\x64\Debug\GCalc.GenshinDMGCalc.resources
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\x64\Debug\GCalc.vcxproj.GenerateResource.cache
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\x64\Debug\GCalc.help.resources

@@ -1,0 +1,10 @@
+﻿  GenshinDMGCalc.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\functions.h(198,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\functions.h(198,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\functions.h(197,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\functions.h(197,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\GenshinDMGCalc.cpp(10,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\GCalc\functions.h(140): warning C4715: 'loadProfile': not all control paths return a value
+  GenshinDMGCalc.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GCalc.vcxproj -> D:\- RYZEN -\Desktop\C++\Projects\8 GUI GCD Calc\GCalc\x64\Release\GCalc.exe
