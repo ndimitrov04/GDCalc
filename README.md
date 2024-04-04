@@ -1,5 +1,5 @@
 # GDCalc
-A simple damage calculator for the game Genshin Impact, created with C++ and WinForms.
+A simple damage calculator for the game Genshin Impact, created with C++ and WinForms.  
 Every online calculator for this game requires a lot of time to use since most of them do not allow the direct input of a character's stats.  
 They require all of a character's <i>artifact stats</i> to be filled in instead. Which means that instead of 6-7 fields, the user needs to input  
 25+ fields. This calculator aims to eliminate that problem by giving the user a way to write the main 7 stats needed for damage calculation directly.  
