@@ -124,7 +124,6 @@ void openDMGRESWebsite() {
 	system("start https://genshin-impact.fandom.com/wiki/Resistance#Base_Enemy_Resistances");
 }
 
-//hell
 //Save profile to a vector (& here is very important, otherwise this doesnt work)
 void saveProfile(Player profileToSave, std::vector<Player>& vector) {
 	vector.push_back(profileToSave);
